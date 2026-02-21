@@ -1,0 +1,66 @@
+{
+  "admin": [
+    {
+      "title": "Dashboard",
+      "icon": "fas fa-tachometer-alt",
+      "url": "/admin/index.php",
+      "active": ["admin"]
+    },
+    {
+      "title": "Karyawan",
+      "icon": "fas fa-users",
+      "url": "/karyawan/index.php",
+      "active": ["karyawan"]
+    },
+    {
+      "title": "Kategori",
+      "icon": "fas fa-tags",
+      "url": "/kategori/index.php",
+      "active": ["kategori"]
+    },
+    {
+      "title": "Inventaris",
+      "icon": "fas fa-box",
+      "url": "/inventaris/index.php",
+      "active": ["inventaris"]
+    },
+    {
+      "title": "Peminjaman",
+      "icon": "fas fa-exchange-alt",
+      "url": "/peminjaman/index.php",
+      "active": ["peminjaman"]
+    },
+    {
+      "title": "Laporan",
+      "icon": "fas fa-chart-bar",
+      "url": "/laporan/index.php",
+      "active": ["laporan"]
+    },
+    {
+      "title": "Pengaturan",
+      "icon": "fas fa-cog",
+      "url": "/pengaturan/index.php",
+      "active": ["pengaturan"]
+    }
+  ],
+  "pegawai": [
+    {
+      "title": "Dashboard",
+      "icon": "fas fa-tachometer-alt",
+      "url": "/admin/index.php",
+      "active": ["admin"]
+    },
+    {
+      "title": "Inventaris",
+      "icon": "fas fa-box",
+      "url": "/inventaris/index.php",
+      "active": ["inventaris"]
+    },
+    {
+      "title": "Peminjaman Saya",
+      "icon": "fas fa-exchange-alt",
+      "url": "/peminjaman/index.php",
+      "active": ["peminjaman"]
+    }
+  ]
+}
